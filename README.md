@@ -1,4 +1,4 @@
-
+This is my version of completed challenge
 
 ## 🚀 SpeedRun Ethereum Challenge #2 - Token Vendor
 
